@@ -56,6 +56,7 @@ Planilha com múltiplas abas, cada uma representando uma dimensão do modelo:
 - `dUnidades`  
 - `dStatus`  
 - `dPagamento`
+- `dCalendario`
 
 ---
 
